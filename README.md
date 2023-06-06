@@ -20,6 +20,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -29,19 +30,17 @@
 
 # 📖 Set up hello microverse Project <a name="about-project"></a>
 
-In Setup hello microverse  project, I have set up a "H" repository. simple coding is implemented here. My goal here is to be familiar with the enviroment. I will be using them in all Microverse projects and most likely in the  future job as well, so it is important to know them!
-
+In this project, I set up a "Hello world" repository. No complex coding is done for this Project. My goal here is to master all of the tools and best practices I learned so far  about software development. 
 ## 🛠 Built With <a name="built-with"></a>
 1.CSS
 2.HTML
-3.Linter
-
 ### Tech Stack <a name="tech-stack"></a>
 <details>
-  <summary>Hello microverse</summary>
+  <summary>Tech used</summary>
   <ul>
-    <li><a href="https://style.css/">style.css</a></li>
-    <li><a href="https://index.html/">index.html </a></li>
+    <li>Linters</li>
+    <li>CSS3</li>
+    <li>HTML5</li>
   </ul>
 </details>
 
@@ -57,9 +56,9 @@ In Setup hello microverse  project, I have set up a "H" repository. simple codin
 
 ### Prerequisites
 
-1.install git bash
-2.install vs code
-3.webbrowser 
+1.Install git bash
+2.Install vs code
+3.Web browser 
 
 ### Setup
 Run this command:
@@ -74,7 +73,7 @@ run this command on terminal
            cd myproject
            npm install
 ### Usage
-     open index.html usin live server 
+     open index.html using live server or web browser 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -89,14 +88,13 @@ run this command on terminal
 
 ## 🔭 Future Features <a name="future-features"></a>
 I am going to add excersie of the microverse.
-      1.portfolio
-      2.mobile app
-      3.personal website
-
+      1.update the look and feel
+      2.media queries to make the site responsive
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
-contribution of the project adding html file, css file and linter to the project.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/abel12-pro/H/issues).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -107,7 +105,7 @@ If you like this project just share to your families and give me like.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank every microverse community and my family that helped me a lot.
+I would like to thank the microverse community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
