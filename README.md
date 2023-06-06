@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="D:\Microverse\Module-1\H\im.jpg" alt="Abel Logo" width="140"  height="auto" />
+  <img src="#" alt="Abel Logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Set up Hello Microverse </b></h3>
@@ -32,7 +32,7 @@
 
 # 📖 Set up hello microverse Project <a name="about-project"></a>
 
-**[your_project__name]** is a...
+**In this project, I have set up a "H" repository. simple coding is implemented here. My goal here is to be familiar with the enviroment. I will be using them in all Microverse projects and most likely in the  future job as well, so it is important to know them!
 
 ## 🛠 Built With <a name="built-with"></a>
 1.CSS
