@@ -15,14 +15,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -32,7 +29,7 @@
 
 # 📖 Set up hello microverse Project <a name="about-project"></a>
 
-**In this project, I have set up a "H" repository. simple coding is implemented here. My goal here is to be familiar with the enviroment. I will be using them in all Microverse projects and most likely in the  future job as well, so it is important to know them!
+In Setup hello microverse  project, I have set up a "H" repository. simple coding is implemented here. My goal here is to be familiar with the enviroment. I will be using them in all Microverse projects and most likely in the  future job as well, so it is important to know them!
 
 ## 🛠 Built With <a name="built-with"></a>
 1.CSS
@@ -40,7 +37,6 @@
 3.Linter
 
 ### Tech Stack <a name="tech-stack"></a>
-
 <details>
   <summary>Hello microverse</summary>
   <ul>
@@ -54,12 +50,6 @@
 1.Added  index.html file 
 2.Added style.css file 
 3.Added linter file
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-     cooming soon 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,11 +75,6 @@ run this command on terminal
            npm install
 ### Usage
      open index.html usin live server 
-
-### Run tests
-    coming soon
-### Deployment
-    coming soon 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
